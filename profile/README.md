@@ -43,8 +43,9 @@
 > ChatAndBuild is the cornerstone of Pivotal's vision to create the infrastructure for the intention economy - where value flows to creators and users, not platforms.
 
 - ChatAndBuild.com - Turn ideas into applications
+- Non Fungible Agents (nfa.xyz) - The BEP007 Standard
 - PivotalChain - Make Bitcoin productive through staking
-- Earn.TV - Watch premium Bloomberg content and earn Bitcoin
+
 
 **📱 Build Examples**
 
