@@ -18,7 +18,7 @@
 - **Real-time Code Streaming** - Watch your application build in real-time
 - **One-click Deployment** - Instantly deploy your projects to the web
 - **Web3 Integratio**n - Seamlessly connect with blockchain wallets and services
-- **Multi-Model Support** - Works with Anthropic, Huggingface, OpenAI, Gemini, Mistral, xAI Grok, and more
+- **Multi-Model Support** - Works with Anthropic, OpenAI, Gemini, and more
 - **GitHub Integration** - Publish projects directly to GitHub
 - **Docker Containerisation** - Package apps for easy deployment
 - **Visual Selection Tool** - Target changes without code commands
@@ -38,13 +38,6 @@
 - **Zero Technical Barrier** - No coding experience required
 - **No Complexity Ceiling** - Unlike no-code tools, there's no limit to what you can build
 - **True Ownership** - You own everything you create
-
-**🌐 Part of the Pivotal Ecosystem**
-> ChatAndBuild is the cornerstone of Pivotal's vision to create the infrastructure for the intention economy - where value flows to creators and users, not platforms.
-
-- ChatAndBuild.com - Turn ideas into applications
-- Non Fungible Agents (nfa.xyz) - The BEP007 Standard
-- PivotalChain - Make Bitcoin productive through staking
 
 
 **📱 Build Examples**
