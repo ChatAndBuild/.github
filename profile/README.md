@@ -2,7 +2,7 @@
 
 ### One Living Brain. Across the AI tools you choose.
 
-Imagine taking your memory from **ChatGPT to Claude to Gemini**—and bringing that same context into **Claude Code, Codex, Cursor, and Google Antigravity**.
+Imagine taking your memory from **ChatGPT to Claude to Gemini**, and bringing that same context into **Claude Code, Codex, Cursor, and Google Antigravity**.
 
 **Living Brain is an interoperable, efficient memory layer for AI.** Connect through MCP or build with the API. Keep the context. Choose the model. Carry the work forward.
 
