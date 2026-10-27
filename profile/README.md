@@ -13,7 +13,6 @@ Imagine taking your memory from **ChatGPT to Claude to Gemini**, and bringing th
 [![Explore Living Brain](https://img.shields.io/badge/Living_Brain-Explore-6C5CE7?style=for-the-badge)](https://livingbrain.com/)
 [![Read Living Brain documentation](https://img.shields.io/badge/Living_Brain-Documentation-6C5CE7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.livingbrain.com/)
 [![Discover ChatChat](https://img.shields.io/badge/ChatChat-Discover-111827?style=for-the-badge)](https://chatchat.com/)
-[![Build with ChatAndBuild](https://img.shields.io/badge/ChatAndBuild-Build-22C55E?style=for-the-badge)](https://chatandbuild.com/)
 
 [Living Brain](#the-living-brain) · [Performance](#memory-that-earns-its-place-in-your-context) · [Developer guide](#build-with-living-brain) · [The ecosystem](#one-ecosystem-three-ways-in) · [Explore a scenario](#what-could-continuity-look-like) · [Open source](#agents-with-identity-and-ownership) · [Follow us](#stay-in-the-loop)
 
