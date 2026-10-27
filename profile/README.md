@@ -1,19 +1,23 @@
 <div align="center">
 
-# Intelligence should have a memory.
+# Your AI changes. Your Brain stays with you.
 
-### Meet the Living Brain.
+### One Living Brain. Across the AI tools you choose.
 
-Memory and context infrastructure for AI agents that can carry knowledge forward, connect information, and coordinate action across tools and time.
+Imagine taking your memory from **ChatGPT to Claude to Gemini**—and bringing that same context into **Claude Code, Codex, Cursor, and Google Antigravity**.
 
-**Building ChatChat, powered by the Living Brain.**
+**Living Brain is an interoperable, efficient memory layer for AI.** Connect through MCP or build with the API. Keep the context. Choose the model. Carry the work forward.
+
+**🧠 Persistent memory · 🔌 MCP + API · ⚡ Up to 22.6× token savings on LongMemEval S\***
+
+[Create your Living Brain →](https://docs.livingbrain.com/docs/quickstart) · [Connect with MCP →](https://docs.livingbrain.com/mcp) · [See reported results ↓](#memory-that-earns-its-place-in-your-context)
 
 [![Explore Living Brain](https://img.shields.io/badge/Living_Brain-Explore-6C5CE7?style=for-the-badge)](https://livingbrain.com/)
 [![Read Living Brain documentation](https://img.shields.io/badge/Living_Brain-Documentation-6C5CE7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.livingbrain.com/)
 [![Discover ChatChat](https://img.shields.io/badge/ChatChat-Discover-111827?style=for-the-badge)](https://chatchat.com/)
 [![Build with ChatAndBuild](https://img.shields.io/badge/ChatAndBuild-Build-22C55E?style=for-the-badge)](https://chatandbuild.com/)
 
-[Living Brain](#the-living-brain) · [Developer guide](#build-with-living-brain) · [The ecosystem](#one-ecosystem-three-ways-in) · [Explore a scenario](#what-could-continuity-look-like) · [Open source](#agents-with-identity-and-ownership) · [Follow us](#stay-in-the-loop)
+[Living Brain](#the-living-brain) · [Performance](#memory-that-earns-its-place-in-your-context) · [Developer guide](#build-with-living-brain) · [The ecosystem](#one-ecosystem-three-ways-in) · [Explore a scenario](#what-could-continuity-look-like) · [Open source](#agents-with-identity-and-ownership) · [Follow us](#stay-in-the-loop)
 
 </div>
 
@@ -21,33 +25,68 @@ Memory and context infrastructure for AI agents that can carry knowledge forward
 
 ## The Living Brain
 
-A conversation ends. The work continues.
+You have already explained the project. Made the decisions. Shared the context. That knowledge should keep working for you wherever you work next.
 
-Useful AI needs to carry forward what matters: the goal, the relationships, the decisions already made, and the information that has changed.
+The **[Living Brain](https://livingbrain.com/)** gives AI a persistent memory layer that can travel across models and workflows. It also powers **[ChatChat](https://chatchat.com/)**, our messaging-first platform for proactive AI agents.
 
-The **[Living Brain](https://livingbrain.com/)** is the memory and context infrastructure powering **[ChatChat](https://chatchat.com/)**. We are building towards persistent, contextual, and accountable intelligence: agents that can keep working with people beyond a single conversation.
+### Bring your Brain to the tools you use
 
-| Capability | What it makes possible |
+**ChatGPT · Claude · Gemini · Claude Code · Codex · Cursor · Google Antigravity**
+
+The idea is simple: choose the AI experience you want, and connect your Living Brain through the client's supported MCP or API integration. Your memory becomes a resource you can bring into the workflow.
+
+| How you want to work | Where to start |
 | :--- | :--- |
-| **Memory over time** | Retain relevant knowledge and context across interactions. |
-| **Connected context** | Understand relationships between people, information, events, and goals. |
-| **Live information** | Respond as information and circumstances change. |
-| **Coordinated action** | Connect agents, tools, and workflows around a shared goal. |
-| **Continuity** | Carry useful context forward beyond a single conversation. |
+| **Connect through MCP with sign-in** | Follow the [MCP guide](https://docs.livingbrain.com/mcp) for connection and authentication instructions. |
+| **Use MCP with API credentials** | Follow the [MCP guide](https://docs.livingbrain.com/mcp) for API-based access. |
+| **Build memory into your own application** | Start with the [Quickstart](https://docs.livingbrain.com/docs/quickstart) and [TypeScript SDK](https://docs.livingbrain.com/sdk/typescript). |
+| **Work from your terminal** | Explore the [Living Brain CLI](https://docs.livingbrain.com/cli). |
+
+Connection options depend on the host application's support. See the [MCP documentation](https://docs.livingbrain.com/mcp) for setup details.
+
+### Create a Brain for what matters to you
+
+A project. A research topic. Your team's knowledge. Your next big idea.
+
+Create a Living Brain around the context you want to carry forward, then bring it into your AI workflows. **Proprietary memory scoring** is central to how Living Brain approaches useful, efficient memory.
+
+| Capability | Why it matters |
+| :--- | :--- |
+| **Interoperable memory** | Bring persistent context into different AI tools through MCP and API integrations. |
+| **Proprietary memory scoring** | A dedicated approach to scoring memory, built into the Living Brain memory layer. |
+| **Connected context** | Connect people, information, events, and goals. |
+| **Continuity across work** | Carry relevant knowledge beyond a single conversation. |
+| **Developer access** | Work through MCP, the API, the TypeScript SDK, or the CLI. |
+
+## Memory that earns its place in your context
+
+### Up to 22.6× token savings on LongMemEval S\*
+
+Long-running work needs memory that is useful **and** efficient. Living Brain's focus is to carry relevant context forward while reducing the token burden of long-context workflows.
+
+| Team-reported result | Evaluation |
+| :--- | :--- |
+| **Up to 22.6× token savings** | Long-context evaluation using **LongMemEval S**. |
+| **#1 on LoCoMo** | Ranking reported by the Living Brain team. |
+| **#1 on LongMemEval** | Ranking reported by the Living Brain team. |
+
+\*These are team-reported results. Public result links, the ranking's comparison set, and the token-savings baseline and configuration are needed to independently assess them. Results can vary by model and workload.
+
+**Coming soon: BrainBench, our self-hosted benchmark suite.** Put Living Brain to the test in your own environment.
 
 ## Build with Living Brain
 
-Start with the **[Quickstart](https://docs.livingbrain.com/docs/quickstart)**, then explore the reference that fits your workflow:
+**Create a Brain. Connect your tools. Start building with memory.**
 
 | Your starting point | Official documentation |
 | :--- | :--- |
-| **Getting started** | [Quickstart →](https://docs.livingbrain.com/docs/quickstart) |
-| **Workspace search** | [Search Pages API reference →](https://docs.livingbrain.com/api-reference/workspace/search-pages) |
-| **TypeScript development** | [TypeScript SDK →](https://docs.livingbrain.com/sdk/typescript) |
-| **Command-line workflows** | [CLI →](https://docs.livingbrain.com/cli) |
-| **Model Context Protocol** | [MCP →](https://docs.livingbrain.com/mcp) |
+| **Create your first Living Brain** | [Quickstart →](https://docs.livingbrain.com/docs/quickstart) |
+| **Connect through MCP** | [MCP, sign-in, and API access →](https://docs.livingbrain.com/mcp) |
+| **Explore workspace search** | [Search Pages API reference →](https://docs.livingbrain.com/api-reference/workspace/search-pages) |
+| **Build with TypeScript** | [TypeScript SDK →](https://docs.livingbrain.com/sdk/typescript) |
+| **Work from the command line** | [CLI →](https://docs.livingbrain.com/cli) |
 
-Use these guides for the current setup instructions and interface details. [Browse all Living Brain documentation →](https://docs.livingbrain.com/)
+[Browse all Living Brain documentation →](https://docs.livingbrain.com/)
 
 ## One ecosystem. Three ways in.
 
@@ -61,38 +100,38 @@ Use these guides for the current setup instructions and interface details. [Brow
 
 ## What could continuity look like?
 
-Choose a scenario to explore. These are illustrative workflows, not live demos or guarantees of available integrations.
+Explore the possibilities. These scenarios illustrate the workflows we are building towards; connection details depend on your chosen tools.
 
 <details>
-<summary><strong>🧠 “Pick up where we left off.”</strong></summary>
+<summary><strong>💬 Plan in ChatGPT. Pick up the idea in Claude. Explore it with Gemini.</strong></summary>
 
-Yesterday, you explored an idea with an agent. Today, you return with a new constraint.
+Imagine connecting the same Living Brain as you move between AI tools. The project brief, decisions, and relevant knowledge become context you can bring to the next conversation.
 
-The ambition: preserve the relevant decisions, connect the new constraint to the original goal, and help you choose the next step without rebuilding the context from scratch.
+**Choose the model for the task. Keep your Brain with you.**
 
-**Living Brain focus:** memory over time and continuity.
+[Explore MCP connections →](https://docs.livingbrain.com/mcp)
 
 </details>
 
 <details>
-<summary><strong>🔎 “What changed, and why does it matter?”</strong></summary>
+<summary><strong>⌨️ Bring project memory into Claude Code, Codex, Cursor, or Antigravity.</strong></summary>
 
-A project has people, dependencies, decisions, and incoming information.
+Your project has a history: requirements, architectural decisions, constraints, and lessons learned. Imagine bringing that context into your coding workflow through a connected Living Brain.
 
-The ambition: connect a new development to the people and goals it affects, so an agent can help you understand its implications and decide what to do next.
+**Give your next coding session a head start.**
 
-**Living Brain focus:** relationships, context, and live information.
+[Connect through MCP →](https://docs.livingbrain.com/mcp) · [Explore the CLI →](https://docs.livingbrain.com/cli)
 
 </details>
 
 <details>
-<summary><strong>🤝 “Help my AI team move this forward.”</strong></summary>
+<summary><strong>🛠️ Build your own application with a Living Brain.</strong></summary>
 
-An idea needs research, planning, and execution across several tools.
+Choose your model and build a workflow around persistent memory. Start with the Quickstart, explore the TypeScript SDK, and consult the Search Pages API reference for workspace search.
 
-The ambition: let agents coordinate around the same goal, carrying relevant context through the workflow while people guide the work.
+**Your application. Your choice of model. A Brain to carry context forward.**
 
-**Living Brain focus:** coordinated action across agents, tools, and time.
+[Quickstart →](https://docs.livingbrain.com/docs/quickstart) · [TypeScript SDK →](https://docs.livingbrain.com/sdk/typescript) · [Search Pages API →](https://docs.livingbrain.com/api-reference/workspace/search-pages)
 
 </details>
 
@@ -128,7 +167,7 @@ We welcome builders, researchers, founders, and partners exploring what persiste
 
 <div align="center">
 
-**Conversations become starting points. Context carries the work forward.**
+**Choose your AI. Bring your Brain. Keep building.**
 
 [Explore the Living Brain →](https://livingbrain.com/) · [Start with the Quickstart →](https://docs.livingbrain.com/docs/quickstart)
 
