@@ -9,6 +9,7 @@ Memory and context infrastructure for AI agents that can carry knowledge forward
 **Building ChatChat, powered by the Living Brain.**
 
 [![Explore Living Brain](https://img.shields.io/badge/Living_Brain-Explore-6C5CE7?style=for-the-badge)](https://livingbrain.com/)
+[![Read Living Brain documentation](https://img.shields.io/badge/Living_Brain-Documentation-6C5CE7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.livingbrain.com/)
 [![Discover ChatChat](https://img.shields.io/badge/ChatChat-Discover-111827?style=for-the-badge)](https://chatchat.com/)
 [![Build with ChatAndBuild](https://img.shields.io/badge/ChatAndBuild-Build-22C55E?style=for-the-badge)](https://chatandbuild.com/)
 
@@ -33,6 +34,10 @@ The **[Living Brain](https://livingbrain.com/)** is the memory and context infra
 | **Live information** | Respond as information and circumstances change. |
 | **Coordinated action** | Connect agents, tools, and workflows around a shared goal. |
 | **Continuity** | Carry useful context forward beyond a single conversation. |
+
+### Explore the documentation
+
+Start with the [Living Brain documentation →](https://docs.livingbrain.com/).
 
 ## One ecosystem. Three ways in.
 
