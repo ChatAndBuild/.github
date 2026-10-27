@@ -13,7 +13,7 @@ Memory and context infrastructure for AI agents that can carry knowledge forward
 [![Discover ChatChat](https://img.shields.io/badge/ChatChat-Discover-111827?style=for-the-badge)](https://chatchat.com/)
 [![Build with ChatAndBuild](https://img.shields.io/badge/ChatAndBuild-Build-22C55E?style=for-the-badge)](https://chatandbuild.com/)
 
-[Living Brain](#the-living-brain) · [The ecosystem](#one-ecosystem-three-ways-in) · [Explore a scenario](#what-could-continuity-look-like) · [Open source](#agents-with-identity-and-ownership) · [Follow us](#stay-in-the-loop)
+[Living Brain](#the-living-brain) · [Developer guide](#build-with-living-brain) · [The ecosystem](#one-ecosystem-three-ways-in) · [Explore a scenario](#what-could-continuity-look-like) · [Open source](#agents-with-identity-and-ownership) · [Follow us](#stay-in-the-loop)
 
 </div>
 
@@ -35,9 +35,19 @@ The **[Living Brain](https://livingbrain.com/)** is the memory and context infra
 | **Coordinated action** | Connect agents, tools, and workflows around a shared goal. |
 | **Continuity** | Carry useful context forward beyond a single conversation. |
 
-### Explore the documentation
+## Build with Living Brain
 
-Start with the [Living Brain documentation →](https://docs.livingbrain.com/).
+Start with the **[Quickstart](https://docs.livingbrain.com/docs/quickstart)**, then explore the reference that fits your workflow:
+
+| Your starting point | Official documentation |
+| :--- | :--- |
+| **Getting started** | [Quickstart →](https://docs.livingbrain.com/docs/quickstart) |
+| **Workspace search** | [Search Pages API reference →](https://docs.livingbrain.com/api-reference/workspace/search-pages) |
+| **TypeScript development** | [TypeScript SDK →](https://docs.livingbrain.com/sdk/typescript) |
+| **Command-line workflows** | [CLI →](https://docs.livingbrain.com/cli) |
+| **Model Context Protocol** | [MCP →](https://docs.livingbrain.com/mcp) |
+
+Use these guides for the current setup instructions and interface details. [Browse all Living Brain documentation →](https://docs.livingbrain.com/)
 
 ## One ecosystem. Three ways in.
 
@@ -120,6 +130,6 @@ We welcome builders, researchers, founders, and partners exploring what persiste
 
 **Conversations become starting points. Context carries the work forward.**
 
-[Explore the Living Brain →](https://livingbrain.com/)
+[Explore the Living Brain →](https://livingbrain.com/) · [Start with the Quickstart →](https://docs.livingbrain.com/docs/quickstart)
 
 </div>
