@@ -1,6 +1,6 @@
 <div align="center">
 
-# Your AI changes. Your Brain stays with you.
+[![Living Brain: Your AI changes. Your Brain stays. One memory layer across ChatGPT, Claude, Gemini, Claude Code, Codex, Cursor, and Antigravity through supported MCP and API connections.](assets/living-brain-hero.png)](https://docs.livingbrain.com/docs/quickstart)
 
 ### One Living Brain. Across the AI tools you choose.
 
@@ -59,6 +59,8 @@ Create a Living Brain around the context you want to carry forward, then bring i
 | **Developer access** | Work through MCP, the API, the TypeScript SDK, or the CLI. |
 
 ## Memory that earns its place in your context
+
+![Living Brain team-reported performance: up to 22.6× token savings on LongMemEval S; number one on LoCoMo and LongMemEval. Results vary by model and workload. BrainBench self-hosted benchmarks coming soon.](assets/living-brain-performance.png)
 
 ### Up to 22.6× token savings on LongMemEval S\*
 
